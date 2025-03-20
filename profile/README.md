@@ -16,8 +16,8 @@ This repository contains the infrastructure configuration files for the **Pro Ta
    cd infra
    
 2. **Ensure you have Docker & Docker Compose installed**
-    Download from https://www.docker.com/
+   Download from https://www.docker.com/
    
-3. **Start the infrastructure**
+4. **Start the infrastructure**
     ```sh
     docker-compose up -d
